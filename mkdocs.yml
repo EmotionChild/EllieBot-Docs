@@ -1,0 +1,37 @@
+repo_url: https://github.com/EmotionBotDevs/EmotionBot-Development
+repo_name: EmotionBot Development
+site_name: EmotionBot Docs
+site_url: https://emotionbot.emotionchild.com
+site_author: Emotion
+
+theme:
+  static_templates:
+    - 404.html
+  features:
+    - navigation.instant
+    - navigation.tabs
+  palette:
+    scheme: slate
+    primary: black
+    accent: light blue
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+nav:
+  - Home: index.md
+markdown_extensions:
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - admonition
+  - meta
+  - footnotes
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
