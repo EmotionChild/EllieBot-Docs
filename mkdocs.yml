@@ -1,8 +1,10 @@
 repo_url: https://github.com/EmotionChild/EmotionBot-v3
-repo_name: EmotionBot v3
+repo_name: EmotionChild/EmotionBot-v3
 site_name: EmotionBot Docs
 site_url: https://emotionbot.emotionchild.com
-site_author: Emotion
+site_author: EmotionChild
+edit_uri: ""
+copyright: Copyright &copy; 2020 - 2021 EmotionChild
 
 theme:
   static_templates:
