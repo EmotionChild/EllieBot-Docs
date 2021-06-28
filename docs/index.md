@@ -1,6 +1,6 @@
 # EmotionBot Documentation
 
-This site will be finished when EmotionBot v3 is released!
+This site will host the guides for EmotionBot v2 until EmotionBot v3 is released
 
 [:material-plus: Add EmotionBot to your server][invite]{ .md-button .md-button--primary }
 [:material-format-list-text: View commands][commands]{ .md-button }
