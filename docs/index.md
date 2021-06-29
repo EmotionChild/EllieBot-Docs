@@ -16,4 +16,4 @@ This site will host the guides for EmotionBot v2 until EmotionBot v3 is released
 
 
 [invite]: https://discordapp.com/oauth2/authorize?client_id=608119997713350679&scope=bot&permissions=66186303
-[commands]: https://emotionbotcommands.emotionchild.com/
+[commands]: https://emotionbotcommands.emotionchild.com

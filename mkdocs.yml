@@ -37,6 +37,7 @@ nav:
   - Features Explained:
       - Custom Reactions: custom-reactions.md
       - Placeholders: placeholders.md
+      - Permissions System: permissions-system.md
 markdown_extensions:
     - attr_list
     - codehilite:
