@@ -34,10 +34,12 @@ theme:
   favicon: assets/favicon.png
 nav:
   - Home: index.md
-  - Features Explained:
+  - v2 Features Explained:
       - Custom Reactions: custom-reactions.md
       - Placeholders: placeholders.md
       - Permissions System: permissions-system.md
+  - v3:
+      - contribution steps: contributing.md
 markdown_extensions:
     - attr_list
     - codehilite:
