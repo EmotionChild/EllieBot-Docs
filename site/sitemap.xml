@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://emotionbot.emotionchild.com/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <loc>https://elliebot.emotionchild.com/</loc>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://emotionbot.emotionchild.com/contributing/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <loc>https://elliebot.emotionchild.com/INSTALLATION/</loc>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://emotionbot.emotionchild.com/custom-reactions/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <loc>https://elliebot.emotionchild.com/PRIVACY/</loc>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://emotionbot.emotionchild.com/permissions-system/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <loc>https://elliebot.emotionchild.com/contributing/</loc>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://emotionbot.emotionchild.com/placeholders/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <loc>https://elliebot.emotionchild.com/custom-reactions/</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://elliebot.emotionchild.com/permissions-system/</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://elliebot.emotionchild.com/placeholders/</loc>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -1,10 +1,12 @@
 repo_url: https://github.com/EmotionChild/Ellie-v4
 repo_name: EmotionChild/Ellie-v4
 site_name: Elliebot Docs
-site_url: https://emotionbot.emotionchild.com
+site_url: https://elliebot.emotionchild.com
 site_author: EmotionChild
 edit_uri: ""
 copyright: Copyright &copy; 2020 - 2021 EmotionChild
+extra:
+  homepage: https://elliebot.emotionchild.com
 
 theme:
   static_templates:
@@ -38,8 +40,10 @@ nav:
       - Custom Reactions: custom-reactions.md
       - Placeholders: placeholders.md
       - Permissions System: permissions-system.md
-  - v3:
-      - contribution steps: contributing.md
+  - v4:
+      - Contribution Steps: contributing.md
+      - Installation: INSTALLATION.md
+      - Privacy: PRIVACY.md
 markdown_extensions:
     - attr_list
     - codehilite:
