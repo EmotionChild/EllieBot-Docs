@@ -42,8 +42,8 @@ nav:
       - Permissions System: permissions-system.md
   - v4:
       - Contribution Steps: contributing.md
-      - Installation: INSTALLATION.md
-      - Privacy: PRIVACY.md
+      - Installation: installation.md
+      - Privacy: privacy_policy.md
 markdown_extensions:
     - attr_list
     - codehilite:

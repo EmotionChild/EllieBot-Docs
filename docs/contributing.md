@@ -1,5 +1,5 @@
 # Hey there!
-If you are on this page that means you either want to help us or you are just curious about out project our contribution steps for the Ellie v4 project are below
+If you are on this page that means you either want to help us or you are just curious about our project our contribution steps for the Ellie v4 project are below
 
 ### Contribution steps
 
