@@ -28,7 +28,7 @@ Some features have their own specific placeholders which are noted in that featu
 - `%server.id%` - Server ID
 - `%server.name%` - Server name
 - `%server.members%` - Member count
-- `%server.time%` - Server time (requires `'timezone` to be set)
+- `%server.time%` - Server time (requires `.timezone` to be set)
 
 ### Channel placeholders
 
