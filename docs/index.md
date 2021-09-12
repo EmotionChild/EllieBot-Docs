@@ -1,6 +1,6 @@
 # Elliebot Documentation
 
-This site will host the guides for EmotionBot v2 and v3 until EllieBot v4 is released
+This site will now be hosting user guides for EllieBot v2 and v3
 
 [:material-plus: Add Ellie to your server][invite]{ .md-button .md-button--primary }
 [:material-format-list-text: View commands][commands]{ .md-button }
