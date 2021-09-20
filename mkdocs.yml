@@ -36,7 +36,7 @@ theme:
   favicon: assets/favicon.png
 nav:
   - Home: index.md
-  - v2 Features Explained:
+  - v3 Features Explained:
       - Custom Reactions: custom-reactions.md
       - Placeholders: placeholders.md
       - Permissions System: permissions-system.md
@@ -64,3 +64,7 @@ markdown_extensions:
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+    - git-revision-date-localized:
+        type: date
+
