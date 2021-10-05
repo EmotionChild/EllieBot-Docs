@@ -1,9 +1,13 @@
-repo_url: https://github.com/EmotionChild/Ellie-v4
-repo_name: EmotionChild/Ellie-v4
+repo_url: https://github.com/EmotionChild/EllieBot-Documentation
+repo_name: EmotionChild/Ellie-Docs
 site_name: Elliebot Docs
-site_url: https://elliebot.emotionchild.com
+site_url: https://docs.emotionchild.com
+site_description: >-
+  The documentation for Ellie.
+  Here you can find documentation for Ellie v3 and the in development Ellie v4
 site_author: EmotionChild
-edit_uri: ""
+edit_uri: edit/main/docs
+docs_dir: docs
 copyright: Copyright &copy; 2020 - 2021 EmotionChild
 extra:
   homepage: https://elliebot.emotionchild.com
@@ -67,4 +71,9 @@ markdown_extensions:
 plugins:
     - git-revision-date-localized:
         type: date
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/SVQVzJq
+      name: Ellie's Home
 
