@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://elliebot.emotionchild.com/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://elliebot.emotionchild.com/contributing/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/contributing/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://elliebot.emotionchild.com/custom-reactions/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/custom-reactions/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://elliebot.emotionchild.com/installation/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/installation/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://elliebot.emotionchild.com/permissions-system/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/permissions-system/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://elliebot.emotionchild.com/placeholders/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/placeholders/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://elliebot.emotionchild.com/privacy_policy/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>https://docs.emotionchild.com/privacy_policy/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
