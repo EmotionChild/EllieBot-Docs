@@ -1,14 +1,20 @@
-repo_url: https://github.com/EmotionChild/EllieBot-Documentation
-repo_name: EmotionChild/Ellie-Docs
+# Project information
 site_name: Elliebot Docs
 site_url: https://docs.emotionchild.com
 site_description: >-
   The documentation for Ellie.
-  Here you can find documentation for Ellie v3 and the in development Ellie v4
+  Here you can find documentation for Ellie and the Ellie bot systems
 site_author: EmotionChild
-edit_uri: edit/main/docs
-docs_dir: docs
+
+# Repository
+repo_name: EmotionChild/Ellie-v4
+repo_url: https://github.com/EmotionChild/Ellie-v4
+edit_uri: https://github.com/EmotionChild/EllieBot-Documentation/blob/main/docs
+
+# Copyright
 copyright: Copyright &copy; 2020 - 2021 EmotionChild
+
+# Configuration
 extra:
   homepage: https://elliebot.emotionchild.com
 
@@ -40,14 +46,18 @@ theme:
   favicon: assets/favicon.png
 nav:
   - Home: index.md
-  - v3 Features Explained:
-      - Custom Reactions: custom-reactions.md
-      - Placeholders: placeholders.md
-      - Permissions System: permissions-system.md
-  - v4:
+  - Ellie v3:
+      - Custom Reactions: v3/custom-reactions.md
+      - Placeholders: v3/placeholders.md
+      - Permissions System: v3/permissions-system.md
+  - Ellie v4:
       - Contribution Steps: contributing.md
-      - Installation: installation.md
-      - Privacy: privacy_policy.md
+      - Installation: v4/installation.md
+      - Privacy: v4/privacy_policy.md
+  - Giveaway Child:
+      - Coming Soon: coming_soon.md
+  - Ticket Child:
+      - Coming Soon: coming_soon.md
 markdown_extensions:
     - attr_list
     - codehilite:
