@@ -55,9 +55,10 @@ nav:
       - Installation: v4/installation.md
       - Privacy: v4/privacy_policy.md
   - Giveaway Child:
-      - Coming Soon: coming_soon.md
+      - Commands: Giveaway-Child/Commands.md
   - Ticket Child:
-      - Coming Soon: coming_soon.md
+      - Commands: Ticket-Child/Commands.md
+      - Privacy: Ticket-Child/Privacy.md
 markdown_extensions:
     - attr_list
     - codehilite:

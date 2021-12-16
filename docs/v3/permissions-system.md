@@ -90,4 +90,4 @@ Yes, there is a way, in one easy command!
 1. `'resetperms`
     - This resets the permission chain back to default
 
-[Commands List]: https://emotionbotcommands.emotionchild.com
+[Commands List]: https://elliebotcommands.emotionchild.com
