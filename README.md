@@ -22,4 +22,4 @@ EllieBot Docs ©2018-2021 Emotion#6522
 You can view the license for this repo in [LICENSE](LICENSE)
 
 ## Credits
-[squidfunk](https://github.com/squidfunk) - [Mkdocs Material](https://squidfunk.github.io/mkdocs-material) without this awesome project this documentation would not exist
+See the [credits](https://docs.emotionchild.com/credits) to see the full list of credits
