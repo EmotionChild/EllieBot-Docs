@@ -20,3 +20,6 @@ EllieBot Docs ©2018-2021 Emotion#6522
 ## Licence
 
 You can view the license for this repo in [LICENSE](LICENSE)
+
+## Credits
+[squidfunk](https://github.com/squidfunk) - [Mkdocs Material](https://squidfunk.github.io/mkdocs-material)
