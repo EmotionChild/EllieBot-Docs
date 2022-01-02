@@ -59,6 +59,8 @@ nav:
   - Ticket Child:
       - Commands: Ticket-Child/Commands.md
       - Privacy: Ticket-Child/Privacy.md
+  - Musical Child:
+      - Coming Soon: coming_soon.md
   - Credits:
       - Credits: credits.md
 markdown_extensions:
