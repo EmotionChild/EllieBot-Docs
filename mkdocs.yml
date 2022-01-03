@@ -91,4 +91,6 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/SVQVzJq
       name: Ellie's Home
+    - icon: fontawesome/brands/github
+      link: https://github.com/EmotionChild
 
