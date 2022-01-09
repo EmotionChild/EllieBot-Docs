@@ -1,6 +1,6 @@
 # EllieBot Docs
 
-EllieBot Docs ©2018-2021 Emotion#6522
+EllieBot Docs ©2018-2022 Emotion#6522
 
 ## Badges
 
