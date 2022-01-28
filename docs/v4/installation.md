@@ -5,6 +5,8 @@
 </h1>
 
 
+# This is outdated and will be redone at a later stage
+
 ### Setting up server
 * The system you are using to host on must have a minimum version [Node.js](https://nodejs.org/en/) 14. (It will not run at all if less).
 * If you are hosting the lavalink aswell on the same system, it will need [Java](https://adoptopenjdk.net/) v11+ (v13 is preferred) and if not on the same system you will need to get the IP and port of the server. (This may require editing of application.yml)

@@ -1,3 +1,5 @@
+# This is outdated and will be redone at a later stage
+
 # Privacy Policy
 
 ## Bot
