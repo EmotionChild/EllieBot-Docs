@@ -5,6 +5,9 @@ This site will now be hosting user guides for EllieBot v3
 [:material-plus: Add Ellie to your server][invite]{ .md-button .md-button--primary }
 [:material-format-list-text: View commands][commands]{ .md-button }
 
+[:material-format-list-text: Ellie's website][site]{.md-button .md-button--primary}
+[:material-format-list-text: Blog][blog]{.md-button}
+
 
 
 
@@ -16,4 +19,6 @@ This site will now be hosting user guides for EllieBot v3
 
 
 [invite]: https://discordapp.com/oauth2/authorize?client_id=608119997713350679&scope=bot&permissions=66186303
-[commands]: https://elliebotcommands.emotionchild.com
+[commands]: https://commands.emotionchild.com
+[site]: https://ellie.emotionchild.com
+[blog]: https://blog.emotionchild.com

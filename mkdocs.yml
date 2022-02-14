@@ -7,8 +7,8 @@ site_description: >-
 site_author: EmotionChild
 
 # Repository
-repo_name: EmotionChild/Ellie-v4
-repo_url: https://github.com/EmotionChild/Ellie-v4
+repo_name: EllieBotDevs/Ellie-v4
+repo_url: https://github.com/EllieBotDevs/Ellie-v4
 edit_uri: https://github.com/EmotionChild/EllieBot-Documentation/blob/main/docs
 
 # Copyright
@@ -29,6 +29,8 @@ theme:
     - pymdownx.keys
     - pymdownx.mark
     - pymdownx.tilde
+    - search.suggest
+    - search.highlight
   palette:
           - media: "(prefers-color-scheme: light)"
             scheme: default
@@ -49,6 +51,7 @@ theme:
     repo: fontawesome/brands/github
   logo: assets/favicon.png
   favicon: assets/favicon.png
+
 nav:
   - Home: index.md
   - Ellie v3:
@@ -57,8 +60,8 @@ nav:
       - Permissions System: v3/permissions-system.md
   - Ellie v4:
       - Contribution Steps: contributing.md
-      - Installation: v4/installation.md
-      - Privacy: v4/privacy_policy.md
+      - Installation: v4/coming_soon.md
+      - Privacy: v4/coming_soon.md
   - Giveaway Child:
       - Commands: Giveaway-Child/Commands.md
   - Ticket Child:
@@ -68,6 +71,7 @@ nav:
       - Coming Soon: coming_soon.md
   - Credits:
       - Credits: credits.md
+
 markdown_extensions:
     - attr_list
     - codehilite:
@@ -82,15 +86,24 @@ markdown_extensions:
     - meta
     - footnotes
     - pymdownx.details
+    - pymdownx.highlight:
+        anchor_linenums: true
     - pymdownx.inlinehilite
+    - pymdownx.snippets
     - pymdownx.superfences
     - pymdownx.tabbed
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
+
 plugins:
-    - git-revision-date-localized:
+  - tags
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - git-revision-date-localized:
         type: date
+        enable_creation_date: true
+
 extra:
   social:
     - icon: fontawesome/brands/discord
@@ -98,4 +111,24 @@ extra:
       name: Ellie's Home
     - icon: fontawesome/brands/github
       link: https://github.com/EmotionChild
-
+      name: EmotionChild's GitHub
+    - icon: fontawesome/brands/github
+      link: https://github.com/EllieBotDevs
+      name: EllieBotDevs' Github
+  analytics:
+    provider: google
+    property: UA-181153828-6
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target=_blank>feedback form</a>.
