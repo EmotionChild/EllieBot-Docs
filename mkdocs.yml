@@ -19,6 +19,8 @@ extra:
   homepage: https://elliebot.emotionchild.com
 
 theme:
+  name: material
+  custom_dir: docs/overrides
   static_templates:
     - 404.html
   features:
