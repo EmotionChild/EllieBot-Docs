@@ -10,6 +10,11 @@ This site will now be hosting user guides for EllieBot v3
 
 
 
+The button below can be used so you can change your cookie settings
+[Change cookie settings](#__consent){ .md-button }
+
+
+
 
 
 
