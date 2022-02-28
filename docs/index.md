@@ -24,6 +24,6 @@ The button below can be used so you can change your cookie settings
 
 
 [invite]: https://discordapp.com/oauth2/authorize?client_id=608119997713350679&scope=bot&permissions=66186303
-[commands]: https://commands.emotionchild.com
-[site]: https://ellie.emotionchild.com
-[blog]: https://blog.emotionchild.com
+[commands]: https://commands.elliebot.net
+[site]: https://www.elliebot.net
+[blog]: https://blog.elliebot.net
