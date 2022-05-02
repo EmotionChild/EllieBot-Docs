@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.emotionchild.com/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/coming_soon/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/coming_soon/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/contributing/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/contributing/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/credits/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/credits/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/Giveaway-Child/Commands/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/Giveaway-Child/Commands/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/Ticket-Child/Commands/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/Ticket-Child/Commands/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/Ticket-Child/Privacy/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/Ticket-Child/Privacy/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/v3/custom-reactions/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/v4/custom-reactions/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/v3/permissions-system/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/v4/permissions-system/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/v3/placeholders/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/v4/placeholders/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.emotionchild.com/v4/coming_soon/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <loc>https://docs.elliebot.net/v5/coming_soon/</loc>
+         <lastmod>2022-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

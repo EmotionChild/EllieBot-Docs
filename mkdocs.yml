@@ -1,22 +1,22 @@
 # Project information
 site_name: Elliebot Docs
-site_url: https://docs.emotionchild.com
+site_url: https://docs.elliebot.net
 site_description: >-
   The documentation for Ellie.
   Here you can find documentation for Ellie and the Ellie bot systems
 site_author: EmotionChild
 
 # Repository
-repo_name: EllieBotDevs/Ellie-v4
-repo_url: https://github.com/EllieBotDevs/Ellie-v4
-edit_uri: https://github.com/EmotionChild/EllieBot-Documentation/blob/main/docs
+repo_name: EllieBotDevs/Ellie-bot
+repo_url: https://github.com/EllieBotDevs/Ellie-bot
+edit_uri: https://github.com/EmotionChild/EllieBot-Docs/blob/main/docs
 
 # Copyright
 copyright: Copyright &copy; 2018 - 2022 EmotionChild
 
 # Configuration
 extra:
-  homepage: https://elliebot.emotionchild.com
+  homepage: https://www.elliebot.net
 
 theme:
   name: material
@@ -56,21 +56,19 @@ theme:
 
 nav:
   - Home: index.md
-  - Ellie v3:
-      - Custom Reactions: v3/custom-reactions.md
-      - Placeholders: v3/placeholders.md
-      - Permissions System: v3/permissions-system.md
   - Ellie v4:
+      - Custom Reactions: v4/custom-reactions.md
+      - Placeholders: v4/placeholders.md
+      - Permissions System: v4/permissions-system.md
+  - Ellie v5:
       - Contribution Steps: contributing.md
-      - Installation: v4/coming_soon.md
-      - Privacy: v4/coming_soon.md
+      - Installation: v5/coming_soon.md
+      - Privacy: v5/coming_soon.md
   - Giveaway Child:
       - Commands: Giveaway-Child/Commands.md
   - Ticket Child:
       - Commands: Ticket-Child/Commands.md
       - Privacy: Ticket-Child/Privacy.md
-  - Musical Child:
-      - Coming Soon: coming_soon.md
   - Credits:
       - Credits: credits.md
 
