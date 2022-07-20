@@ -1,6 +1,6 @@
 # Permissions Overview
 
-Have you ever felt confused or even overwhelmed when trying to set Nadeko's permissions? In this guide we will be explaining **how to use the permission commands correctly** and even **cover a few common questions**! Every command we discuss here can be found in the [Commands List].
+Have you ever felt confused or even overwhelmed when trying to set Ellie's permissions? In this guide we will be explaining **how to use the permission commands correctly** and even **cover a few common questions**! Every command we discuss here can be found in the [Commands List].
 **Server owners are not bot owners**.
 
 ## Why do we use the Permissions Commands?
@@ -74,14 +74,14 @@ Say you want to only enable NSFW commands for a specific role, just do the follo
 2. `'rm NSFW enable Lewd`
     - Enables usage of the NSFW module for the Lewd role
 
-#### How do I disable custom reactions from triggering?
+#### How do I disable Expressions from triggering?
 
-If you don't want server or global custom reactions, just block the module that controls their usage:
+If you don't want server or global Expressions, just block the module that controls their usage:
 
-1. `'sm ActualCustomReactions disable`
-    - Disables the ActualCustomReactions module from being used
+1. `'sm ActualExpressions disable`
+    - Disables the ActualExpressions module from being used
 
-**Note**: The `ActualCustomReactions` module controls the usage of custom reactions. The `CustomReactions` module controls commands related to custom reactions (such as `'acr`, `'lcr`, `'crca`, etc).
+**Note**: The `Expressions` module controls the usage of Expressions. The `CustomReactions` module controls commands related to Expressions (such as `'acr`, `'lcr`, `'crca`, etc).
 
 #### I've broken permissions and am stuck, can I reset permissions?
 
